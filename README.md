@@ -15,7 +15,7 @@ This Streamlit application allows users to interact with documents by asking que
 - Streamlit
 - langchain
 - langchain_groq
-- - langchain_community
+- langchain_community
 - dotenv
 - PyPDF2
 - faiss
